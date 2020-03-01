@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54676" started-at="2020-03-01T17:54:10Z" finished-at="2020-03-01T17:55:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54676" started-at="2020-03-01T17:54:10Z" finished-at="2020-03-01T17:55:04Z">
+      <class name="com.qa.tests.PlaceOrder">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.qa.tests.PlaceOrder@5bcab519]" name="Setup" is-config="true" duration-ms="15899" started-at="2020-03-01T17:54:10Z" finished-at="2020-03-01T17:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="CreateAccount()[pri:0, instance:com.qa.tests.PlaceOrder@5bcab519]" name="CreateAccount" duration-ms="3328" started-at="2020-03-01T17:54:26Z" finished-at="2020-03-01T17:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccount -->
+        <test-method status="PASS" signature="EnterRegistrationData()[pri:1, instance:com.qa.tests.PlaceOrder@5bcab519]" name="EnterRegistrationData" duration-ms="7872" started-at="2020-03-01T17:54:29Z" finished-at="2020-03-01T17:54:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterRegistrationData -->
+        <test-method status="PASS" signature="AddTwoWomensItems()[pri:2, instance:com.qa.tests.PlaceOrder@5bcab519]" name="AddTwoWomensItems" duration-ms="11445" started-at="2020-03-01T17:54:37Z" finished-at="2020-03-01T17:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTwoWomensItems -->
+        <test-method status="PASS" signature="ConfirmOrder()[pri:3, instance:com.qa.tests.PlaceOrder@5bcab519]" name="ConfirmOrder" duration-ms="15369" started-at="2020-03-01T17:54:48Z" finished-at="2020-03-01T17:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmOrder -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.tests.PlaceOrder@5bcab519]" name="teardown" is-config="true" duration-ms="718" started-at="2020-03-01T17:55:04Z" finished-at="2020-03-01T17:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.tests.PlaceOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
